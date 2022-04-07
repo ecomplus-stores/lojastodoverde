@@ -3,6 +3,11 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/onibusdeexcursoes-enviamos-correios-transportadoras-todoverde.jpg",
+      "link": "https://api.whatsapp.com/send?phone=5511920096979&text=Ol"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
