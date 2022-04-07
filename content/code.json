@@ -1,5 +1,5 @@
 {
-  "css": ".header{background:#color #699686;border-bottom:1px solid var(--primary-lighter);box-shadow:var(--box-shadow-sm);padding:var(--spacer-1);position:-webkit-sticky;position:sticky;top:0;width:100%;z-index:900}@media(min-width:576px){.header{border-width:2px;padding:var(--spacer-2) var(--spacer-3)}}\n@media (max-width:767px) {\n    .product-list > .col-sm-6, .product-page + .grid-title + hr + .row > .col-sm-6 {\n        width: 50%;\n        float: left\n    }\n     .product-item { height: 350px !important; } \n\n    .product-item h3 {\n        height: 60px !important\n    }\n}\n\n#voltar {\nborder: 1px solid #10736e;\n}",
+  "css": ".header{background:#color #699686 !important;border-bottom:1px solid var(--primary-lighter);box-shadow:var(--box-shadow-sm);padding:var(--spacer-1);position:-webkit-sticky;position:sticky;top:0;width:100%;z-index:900}@media(min-width:576px){.header{border-width:2px;padding:var(--spacer-2) var(--spacer-3)}}\n@media (max-width:767px) {\n    .product-list > .col-sm-6, .product-page + .grid-title + hr + .row > .col-sm-6 {\n        width: 50%;\n        float: left\n    }\n     .product-item { height: 350px !important; } \n\n    .product-item h3 {\n        height: 60px !important\n    }\n}\n\n#voltar {\nborder: 1px solid #10736e;\n}",
   "html_head": "",
   "html_body": ""
 }
