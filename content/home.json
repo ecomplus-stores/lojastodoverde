@@ -116,10 +116,10 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
-      "sort": "offers",
+      "sort": "news",
       "title": "",
       "headless": false,
-      "limit": 12,
+      "limit": 20,
       "page": 1
     }
   ]
