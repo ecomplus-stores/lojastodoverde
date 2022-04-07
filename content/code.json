@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".header{background:var(color: #699686);border-bottom:1px solid var(--primary-lighter);box-shadow:var(--box-shadow-sm);padding:var(--spacer-1);position:-webkit-sticky;position:sticky;top:0;width:100%;z-index:900}",
   "html_head": "",
   "html_body": ""
 }
