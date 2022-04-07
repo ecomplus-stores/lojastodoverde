@@ -25,6 +25,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/123456.jpg"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
