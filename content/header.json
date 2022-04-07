@@ -9,9 +9,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/todos-os-produtos/?TODOS OS PRODUTOS"
-    ],
+    "featured": [],
     "random": 0,
     "full_width": true
   },
