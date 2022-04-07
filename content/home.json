@@ -29,6 +29,14 @@
       "img": "/img/uploads/123456.jpg"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/calcas-flaneladas-inverno-peluciadas-quentinhas-termicas-atacado-bras-calcasflaneladas-calcastermicas-calcasquenaoficamtransparentes-bras-bomretiro.jpg"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/todoverde-calcas-tricot-atacado-blusas-vestidos-cropped-malha-bras-roupabarata-bomretiro-ademarmalhas.png"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
