@@ -10,22 +10,17 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/12endereco-todoverde-calcas-naoficamtransparentes.jpg"
+        },
+        {
+          "start": "2022-04-07T00:55:12.593Z",
+          "end": "",
+          "img": "/img/uploads/1envios-pelos-correios.jpg"
         }
       ]
     },
