@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.38f59261f0a20908d5d82bae42e7187a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.2f733800a40836ccbb64449f759fb1be.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.d3b4a59e45ac4460fb8bca55139e47f4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.c58f8562c132df87ecb10c0598db083c.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.570e1710e5824f55c3c7a5c606cbfc9c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "lojastodoverde",
+  "short_name": "lojastodoverde",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "lojastodoverde",
+  "background_color": "#ebebeb",
+  "theme_color": "#699686"
+}
