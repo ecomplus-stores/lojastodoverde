@@ -5,8 +5,8 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros",
-    "link": "Aceitamos cartões de crédito e parcelamos"
+    "text": "Aceitamos cartões de crédito e parcelamos",
+    "link": ""
   },
   "exchange": {
     "show": true,
