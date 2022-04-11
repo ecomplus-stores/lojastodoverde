@@ -2,6 +2,8 @@
 // load footer options and contacts from content
 const footer = _.cms('footer') || {}
 const contacts = _.cms('contacts') || {}
+
+const { path } = _.route
 %>
 
 <footer class="footer py-3 py-lg-4 py-xl-5">
@@ -156,9 +158,11 @@ const contacts = _.cms('contacts') || {}
       <% } %>
 
       <div class="col-12 col-xl order-lg-first">
-        <h2 class="footer__title footer__store">
-          <%= footer.description.title || _.settings.name %>
-        </h2>
+        <% if (path === '/' || path === '/index') { %> 
+          <h1  class="footer__title footer__store" itemprop="name"><%= footer.description.title || _.settings.name %></h1>
+        <% } else { %>
+          <h2  class="footer__title footer__store"><%= footer.description.title || _.settings.name %></h2>
+        <% } %>
         <p><%- footer.description.text || _.settings.description %></p>
 
         <div class="mt-4 mb-3">
