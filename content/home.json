@@ -8,19 +8,6 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-04-07T03:31:56.831Z",
-          "end": "",
-          "img": "/img/uploads/onibusdeexcursoes-enviamos-correios-transportadoras-todoverde-calcas-femininas-atacado.jpg",
-          "link": "https://api.whatsapp.com/send?phone=5511920096979&text=Ol%C3%A1"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
           "start": "2022-04-07T02:11:00.717Z",
           "end": "2022-04-07T02:11:00.735Z",
           "img": "/img/uploads/onibusdeexcursoes-enviamos-correios-transportadoras-todoverde.jpg"
@@ -36,6 +23,19 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/12endereco-todoverde-calcas-naoficamtransparentes.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-04-07T03:31:56.831Z",
+          "end": "",
+          "img": "/img/uploads/onibusdeexcursoes-enviamos-correios-transportadoras-todoverde-calcas-femininas-atacado.jpg",
+          "link": "https://api.whatsapp.com/send?phone=5511920096979&text=Ol%C3%A1"
         }
       ]
     },
