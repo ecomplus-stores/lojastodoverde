@@ -97,13 +97,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/a1-shorts-todoverde-pecaspararevenda-bras-atacado.jpg"
+          "img": "/img/uploads/a1-shorts-todoverde-pecaspararevenda-bras-atacado.jpg",
+          "link": "https://www.lojastodoverde.com.br/search?term=shorts"
         },
         {
-          "img": "/img/uploads/flare-todoverde-pecaspararevenda-bras-atacado.jpg"
+          "img": "/img/uploads/flare-todoverde-pecaspararevenda-bras-atacado.jpg",
+          "link": "https://www.lojastodoverde.com.br/search?term=flare"
         },
         {
-          "img": "/img/uploads/senhoras-todoverde-pecaspararevenda-bras-atacado.jpg"
+          "img": "/img/uploads/senhoras-todoverde-pecaspararevenda-bras-atacado.jpg",
+          "link": "https://www.lojastodoverde.com.br/search?term=senhora"
         }
       ]
     },
