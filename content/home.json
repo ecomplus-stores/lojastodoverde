@@ -32,19 +32,6 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-04-07T03:31:56.831Z",
-          "end": "",
-          "img": "/img/uploads/onibusdeexcursoes-enviamos-correios-transportadoras-todoverde-calcas-femininas-atacado.jpg",
-          "link": "https://www.lojastodoverde.com.br/todos-os-produtos/"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
           "start": "2022-04-07T02:11:35.698Z",
           "end": "2022-04-07T02:11:35.713Z",
           "img": "/img/uploads/123456.jpg"
@@ -74,6 +61,19 @@
           "end": "",
           "img": "/img/uploads/todoverde-calcas-tricot-atacado-blusas-vestidos-cropped-malha-bras-roupabarata-bomretiro-ademarmalhas.png",
           "link": "https://www.lojastodoverde.com.br/todoverde-ademar/"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-04-07T03:31:56.831Z",
+          "end": "",
+          "img": "/img/uploads/onibusdeexcursoes-enviamos-correios-transportadoras-todoverde-calcas-femininas-atacado.jpg",
+          "link": "https://www.lojastodoverde.com.br/todos-os-produtos/"
         }
       ]
     },
