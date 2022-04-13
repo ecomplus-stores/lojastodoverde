@@ -80,13 +80,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/legging-todoverde-pecaspararevenda-bras-atacado.jpg"
+          "img": "/img/uploads/legging-todoverde-pecaspararevenda-bras-atacado.jpg",
+          "link": "https://www.lojastodoverde.com.br/search?term=legging"
         },
         {
-          "img": "/img/uploads/skinny-todoverde-pecaspararevenda-bras-atacado.jpg"
+          "img": "/img/uploads/skinny-todoverde-pecaspararevenda-bras-atacado.jpg",
+          "link": "https://www.lojastodoverde.com.br/search?term=skinny"
         },
         {
-          "img": "/img/uploads/jogger-todoverde-pecaspararevenda-bras-atacado.jpg"
+          "img": "/img/uploads/jogger-todoverde-pecaspararevenda-bras-atacado.jpg",
+          "link": "https://www.lojastodoverde.com.br/search?term=jogger"
         }
       ]
     },
