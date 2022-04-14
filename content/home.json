@@ -82,7 +82,8 @@
       "banners": [
         {
           "img": "/img/uploads/ecocouro-pecasemecocour-napa-couro-sintetico-lojas-todoverde.jpg",
-          "link": "https://www.lojastodoverde.com.br/search?term=eco+couro"
+          "link": "https://www.lojastodoverde.com.br/search?term=eco+couro",
+          "mobile_img": "https://www.lojastodoverde.com.br/search?term=eco+couro"
         }
       ]
     },
