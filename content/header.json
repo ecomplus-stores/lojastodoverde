@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "5% de desconto no PIX",
-    "link": "/promotion"
+    "text": "Aproveite o cupom de desconto",
+    "link": "/cupom-disponivel-primeira-compra"
   },
   "contacts_stripe": {
     "pages": [],
