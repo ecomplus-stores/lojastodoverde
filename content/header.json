@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "5% de DESCONTO no PIX",
-    "link": ""
+    "link": "",
+    "background": "#034a05"
   },
   "contacts_stripe": {
     "pages": [],
