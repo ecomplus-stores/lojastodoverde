@@ -1,10 +1,21 @@
 {
   "title": "Nossa localização",
-  "body": "``\n\n![](/img/uploads/whatsapp-image-2022-04-16-at-10.07.09.jpeg)\n\n![](/img/uploads/whatsapp-image-2022-04-16-at-10.07.12.jpeg)\n\n``\n\n``",
+  "body": "``",
   "sections": [
     {
       "type": "custom-html",
       "html": "`<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.932986498311!2d-46.62374428586865!3d-23.53491256649931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce58e545a53485%3A0xce43d6aa3919c2a9!2sR.%20Jo%C3%A3o%20Teodoro%2C%201139%20-%20Br%C3%A1s%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003009-000!5e0!3m2!1spt-BR!2sbr!4v1650325264508!5m2!1spt-BR!2sbr\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>`"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/whatsapp-image-2022-04-16-at-10.07.12.jpeg"
+        },
+        {
+          "img": "/img/uploads/whatsapp-image-2022-04-16-at-10.07.09.jpeg"
+        }
+      ]
     }
   ]
 }
