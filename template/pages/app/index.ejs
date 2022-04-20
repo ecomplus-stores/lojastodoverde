@@ -52,6 +52,20 @@ const logo = _.settings.logo
   </header>
 
   <main id="spa">
+    <div id="containerCalc" class="container" style="padding: 1rem; margin-top: 1rem; border: 1px solid #ccc">
+      <span id="lessSome" style="display: none">Faltam <strong id="lessUnit"></strong> no carrinho<span id="showUnit"> para</span> finalizar a compra</span>
+      <span id="noMore" style="display: none">Você já <b>completou</b> o <b>Pedido Mínimo</b>, continue e <b>finalize a compra</b>, ou <b>continue comprando</b>!</span>
+      <div class="progress" style="height: 2.5rem">
+            <div
+              class="progress-bar progress-bar-striped"
+              role="progressbar"
+              id="lastUnitsBar"
+              style="background-color: var(--primary-lighter)"
+            >
+            <strong style="display: flex; align-items: center; justify-content: center; font-size: 1.5rem" id="percentBar"></strong>
+            </div>
+      </div>
+    </div>
     <div id="storefront-app">
       <%- await include('@/sections/inc/loading') %>
     </div>
