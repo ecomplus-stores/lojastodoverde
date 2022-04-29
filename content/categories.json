@@ -14,7 +14,7 @@
     {
       "type": "category-retail",
       "enabled": true,
-      "sort": "lowest_price"
+      "sort": "news"
     },
     {
       "type": "document-description",
