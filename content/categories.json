@@ -14,7 +14,7 @@
     {
       "type": "category-retail",
       "enabled": true,
-      "sort": "views"
+      "sort": "lowest_price"
     },
     {
       "type": "document-description",
