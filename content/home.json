@@ -140,6 +140,18 @@
       "headless": false,
       "limit": 20,
       "page": 1
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-07-07T11:58:43.593Z",
+          "end": "",
+          "img": "/img/uploads/calcaprada-saiaprada-prada-lipo-calcalipo-todoverde-lojastodoverde-atacado-roupasbaratas-bras-skinnyprada.jpg"
+        }
+      ]
     }
   ]
 }
