@@ -84,6 +84,18 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-07-07T11:58:43.593Z",
+          "end": "",
+          "img": "/img/uploads/calcaprada-saiaprada-prada-lipo-calcalipo-todoverde-lojastodoverde-atacado-roupasbaratas-bras-skinnyprada.jpg"
+        }
+      ]
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -124,18 +136,6 @@
         {
           "img": "/img/uploads/senhoras-todoverde-pecaspararevenda-bras-atacado.jpg",
           "link": "https://www.lojastodoverde.com.br/search?term=senhora"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-07-07T11:58:43.593Z",
-          "end": "",
-          "img": "/img/uploads/calcaprada-saiaprada-prada-lipo-calcalipo-todoverde-lojastodoverde-atacado-roupasbaratas-bras-skinnyprada.jpg"
         }
       ]
     },
