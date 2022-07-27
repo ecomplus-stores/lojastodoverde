@@ -1,6 +1,6 @@
 {
-  "meta_title": "Calça pantalona atacado ",
-  "meta_description": "Calças pantalonas no atacado, com qualidade e preço justo, só na Todoverde. Enviamos para todo o Brasil e exterior",
+  "meta_title": "Calças no atacado ",
+  "meta_description": "Calças femininas no atacado, com qualidade e preço justo, só na Todoverde. Enviamos para todo o Brasil e exterior",
   "sections": [
     {
       "type": "banner-slider",
@@ -31,6 +31,26 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/shine-pantalona-lurex-lojastodoverde-todoverde-brilho-calca-sairanoite-naoficatransparente.png",
+          "link": "https://www.lojastodoverde.com.br/colecao-shine",
+          "mobile_img": "/img/uploads/shine-pantalona-lurex-lojastodoverde-todoverde-brilho-calca-sairanoite-naoficatransparente.png"
+        },
+        {
+          "img": "/img/uploads/skinnyprada-prada-calcaprada.png",
+          "link": "https://www.lojastodoverde.com.br/calcas-pradas/",
+          "mobile_img": "/img/uploads/skinnyprada-prada-calcaprada.png"
+        },
+        {
+          "img": "/img/uploads/whatsapp-image-2022-07-27-at-09.41.04-1-.jpeg",
+          "link": "",
+          "mobile_img": "/img/uploads/whatsapp-image-2022-07-27-at-09.41.04-1-.jpeg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/pantalona-lojastodoverde-wideleg.png",
           "link": "https://www.lojastodoverde.com.br/pantalonas",
           "mobile_img": "/img/uploads/pantalona-lojastodoverde-wideleg.png"
@@ -44,23 +64,6 @@
           "img": "/img/uploads/todomodelos-lojastodoverde.png",
           "link": "https://www.lojastodoverde.com.br/todos-os-produtos/",
           "mobile_img": "/img/uploads/todomodelos-lojastodoverde.png"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/a1-shorts-todoverde-pecaspararevenda-bras-atacado.jpg",
-          "link": "https://www.lojastodoverde.com.br/search?term=shorts"
-        },
-        {
-          "img": "/img/uploads/flare-todoverde-pecaspararevenda-bras-atacado.jpg",
-          "link": "https://www.lojastodoverde.com.br/search?term=flare"
-        },
-        {
-          "img": "/img/uploads/moda-senhoras-gorgurinho-gorgurao-bermudas-capri-calca-senhoras-idosa.png",
-          "link": "https://www.lojastodoverde.com.br/search?term=senhora"
         }
       ]
     },
