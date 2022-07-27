@@ -193,6 +193,11 @@
       "headless": false,
       "limit": 20,
       "page": 1
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2022-07-27-at-11.53.06.jpeg",
+      "mobile_img": "/img/uploads/whatsapp-image-2022-07-27-at-11.53.06.jpeg"
     }
   ]
 }
