@@ -1,14 +1,14 @@
 {
   "domain": "www.lojastodoverde.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#699686",
+  "primary_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ebebeb",
   "repository": "ecomplus-stores/lojastodoverde",
-  "logo": "/img/uploads/v2.png",
+  "logo": "/img/uploads/todoverde-lojastodoverde-logo-png.png",
   "name": "lojastodoverde",
   "short_name": "lojastodoverde",
   "lang": "pt_br",
@@ -18,9 +18,9 @@
   "favicon": "/img/uploads/favicon.ico",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#ffffff",
+  "secondary_color": "#000000",
   "icon": "/img/uploads/favicon.png",
   "store_id": 47445,
-  "description": "lojastodoverde",
+  "description": "Lojas Todoverde, a marca com a maior variedade de calças no Brás, no ramo de atacado!",
   "large_icon": "/img/uploads/logo-1-.png"
 }
