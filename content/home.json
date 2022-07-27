@@ -68,7 +68,14 @@
       ]
     },
     {
-      "type": "banners-grid"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/blusas-lojastodoverde.png",
+          "link": "www.lojastodoverde.com.br/partes-de-cima",
+          "mobile_img": "/img/uploads/blusas-lojastodoverde.png"
+        }
+      ]
     },
     {
       "type": "banner-slider",
