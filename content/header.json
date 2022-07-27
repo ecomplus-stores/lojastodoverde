@@ -2,7 +2,7 @@
   "marketing_stripe": {
     "text": "Pedido mínimo 250,00 - Valores no Atacado",
     "link": "",
-    "background": "#ffffff",
+    "background": "#cecece",
     "color": "#000000"
   },
   "contacts_stripe": {
