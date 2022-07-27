@@ -6,3 +6,10 @@
 #page-home .banners-grid .row .col-12 {
   max-width: 33.33%
 }
+@media(max-width: 767px) {
+   #page-home .banners-grid {
+      margin-top: 0;
+      margin-bottom: 0;
+      background: #d9cfc5 !important;
+    }
+}
