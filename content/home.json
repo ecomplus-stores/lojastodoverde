@@ -16,12 +16,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/whatsapp-image-2022-07-27-at-11.53.06.jpeg",
-      "mobile_img": "/img/uploads/whatsapp-image-2022-07-27-at-11.53.06.jpeg",
-      "link": "https://docs.google.com/spreadsheets/d/1V1zLzjMJeoPWyP3vMaS0EyXxy9YDjv_7G3dTc5FuUCY/edit#gid=0"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -185,6 +179,19 @@
       "headless": false,
       "limit": 20,
       "page": 1
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-07-27T18:05:18.201Z",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2022-07-27-at-11.53.06.jpeg",
+          "mobile_img": "/img/uploads/whatsapp-image-2022-07-27-at-11.53.06.jpeg"
+        }
+      ]
     }
   ]
 }
