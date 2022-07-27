@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "MÍNIMO R$ 250,00 EM PEÇAS (VALORES JÁ ESTÃO NO ATACADO)",
+    "text": "Pedido mínimo 250,00 - Valores no Atacado",
     "link": "",
-    "background": "#b50000",
-    "color": "#ffffff"
+    "background": "#ffffff",
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [],
