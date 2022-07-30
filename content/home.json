@@ -21,6 +21,20 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2022-07-27T18:05:18.201Z",
+          "end": "",
+          "img": "/img/uploads/envio-por-onibus-de-excursoes-lojastodoverde.png",
+          "mobile_img": "/img/uploads/envio-por-onibus-de-excursoes-lojastodoverde.png",
+          "link": "https://api.whatsapp.com/send?phone=5511970591396&text=Ol%C3%A1%2C%20como%20fa%C3%A7o%20para%20meu%20pedido%20ser%20entregue%20pelo%20onibus%20%3F"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
           "start": "2022-04-07T02:11:00.717Z",
           "end": "",
           "img": "/img/uploads/onibusdeexcursoes-enviamos-correios-transportadoras-todoverde-copiar.jpg",
@@ -179,20 +193,6 @@
       "headless": false,
       "limit": 20,
       "page": 1
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-07-27T18:05:18.201Z",
-          "end": "",
-          "img": "/img/uploads/envio-por-onibus-de-excursoes-lojastodoverde.png",
-          "mobile_img": "/img/uploads/envio-por-onibus-de-excursoes-lojastodoverde.png",
-          "link": "https://api.whatsapp.com/send?phone=5511970591396&text=Ol%C3%A1%2C%20como%20fa%C3%A7o%20para%20meu%20pedido%20ser%20entregue%20pelo%20onibus%20%3F"
-        }
-      ]
     }
   ]
 }
