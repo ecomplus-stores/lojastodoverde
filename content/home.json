@@ -188,8 +188,9 @@
         {
           "start": "2022-07-27T18:05:18.201Z",
           "end": "",
-          "img": "/img/uploads/whatsapp-image-2022-07-27-at-11.53.06.jpeg",
-          "mobile_img": "/img/uploads/whatsapp-image-2022-07-27-at-11.53.06.jpeg"
+          "img": "/img/uploads/envio-por-onibus-de-excursoes-lojastodoverde.png",
+          "mobile_img": "/img/uploads/envio-por-onibus-de-excursoes-lojastodoverde.png",
+          "link": "https://api.whatsapp.com/send?phone=5511970591396&text=Ol%C3%A1%2C%20como%20fa%C3%A7o%20para%20meu%20pedido%20ser%20entregue%20pelo%20onibus%20%3F"
         }
       ]
     }
