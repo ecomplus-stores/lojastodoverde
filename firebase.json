@@ -2,6 +2,11 @@
   "hosting": {
     "redirects": [
       {
+        "source": "/todos-produtos/",
+        "destination": "/todos-produtos---disponiveis",
+        "type": 301
+      },
+      {
         "source": "/sitemap",
         "destination": "/sitemap.xml",
         "type": 301
