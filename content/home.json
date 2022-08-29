@@ -5,6 +5,18 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-08-29T22:12:54.370Z",
+          "end": "2022-08-29T22:12:54.383Z",
+          "img": "/img/uploads/legging-naoficatransparente-leggingacademia-leggingagachamento-semtransparencia-atacado-leggingpreta-poliamida-leggingpoliamida-leggingfeminina-legginglupo-leggingnike-leggingfitness-legginglive-boaqualidade-leggingcomlycra.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
