@@ -105,7 +105,15 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "template/public/img/uploads/img_0309.png",
+          "link": "https://dev.meupositivo.com.br/doseujeito/dicas/correios-como-saber-qual-agencia-encomenda/"
+        }
+      ]
     },
     {
       "type": "banner-slider",
