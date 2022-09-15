@@ -18,6 +18,18 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-09-15T14:53:19.934Z",
+          "end": "2022-09-22T14:53:36.315Z",
+          "img": "/img/uploads/50360d13-7af2-4583-b2dc-ac9be0a4867e.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
