@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Cupom de desconto: Xuxu - SOMENTE ESSA SEMANA",
+    "text": "",
     "link": "",
-    "background": "#faebdb",
-    "color": "#000000"
+    "background": "",
+    "color": ""
   },
   "contacts_stripe": {
     "pages": [],
@@ -18,5 +18,7 @@
     "full_width": true
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
