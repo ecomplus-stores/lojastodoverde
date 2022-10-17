@@ -58,6 +58,14 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/img_0733.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/todomodelos-lojastodoverde.png",
           "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis",
           "mobile_img": ""
