@@ -20,6 +20,19 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img_0730.png",
+          "link": "https://www.lojastodoverde.com.br/pages/nossa-localizacao"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
           "start": "2022-08-29T22:12:54.370Z",
           "end": "",
           "img": "/img/uploads/img_0721.jpg",
@@ -37,19 +50,6 @@
           "end": "",
           "img": "/img/uploads/img_0733.png",
           "link": "https://www.lojastodoverde.com.br/barbie-core"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/img_0730.png",
-          "link": "https://www.lojastodoverde.com.br/pages/nossa-localizacao"
         }
       ]
     },
