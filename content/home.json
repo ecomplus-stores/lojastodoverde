@@ -190,19 +190,6 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/img_0733.png",
-          "link": "https://www.lojastodoverde.com.br/barbie-core"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
