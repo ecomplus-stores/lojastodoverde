@@ -30,19 +30,6 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-08-29T22:12:54.370Z",
-          "end": "",
-          "img": "/img/uploads/img_0721.jpg",
-          "link": "https://www.lojastodoverde.com.br/legging-premium-blackout"
-        }
-      ]
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -173,6 +160,19 @@
           "img": "/img/uploads/todomodelos-lojastodoverde.png",
           "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis/",
           "mobile_img": "/img/uploads/todomodelos-lojastodoverde.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-08-29T22:12:54.370Z",
+          "end": "",
+          "img": "/img/uploads/img_0721.jpg",
+          "link": "https://www.lojastodoverde.com.br/legging-premium-blackout"
         }
       ]
     },
