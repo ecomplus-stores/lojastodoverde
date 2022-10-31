@@ -154,16 +154,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/todomodelos-lojastodoverde.png",
-          "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis/",
-          "mobile_img": "/img/uploads/todomodelos-lojastodoverde.png"
-        }
-      ]
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -173,6 +163,19 @@
           "end": "",
           "img": "/img/uploads/img_0721.jpg",
           "link": "https://www.lojastodoverde.com.br/legging-premium-blackout"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img_0733.png",
+          "link": "https://www.lojastodoverde.com.br/barbie-core"
         }
       ]
     },
@@ -189,19 +192,6 @@
       "headless": false,
       "limit": 20,
       "page": 1
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/img_0733.png",
-          "link": "https://www.lojastodoverde.com.br/barbie-core"
-        }
-      ]
     }
   ]
 }
