@@ -1,8 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "",
+    "text": "Dúvidas ? Clique aqui para ser atendido",
     "link": "",
-    "background": "",
+    "background": "#eb6440",
     "color": ""
   },
   "contacts_stripe": {
