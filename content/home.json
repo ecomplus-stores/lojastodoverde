@@ -21,10 +21,10 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2022-04-07T02:12:14.990Z",
           "end": "",
-          "img": "/img/uploads/img_0881.jpg",
-          "link": "https://www.lojastodoverde.com.br/pages/nossa-localizacao"
+          "img": "/img/uploads/calcas-flaneladas-felpadas-suplex-felpado-peluciadas-inverno-termicas-skinny-atacado.jpg",
+          "link": "https://www.lojastodoverde.com.br/flaneladas/"
         }
       ]
     },
@@ -105,6 +105,19 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img_0881.jpg",
+          "link": "https://www.lojastodoverde.com.br/pages/nossa-localizacao"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": false,
       "slides": [
         {
@@ -159,19 +172,6 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-04-07T02:12:14.990Z",
-          "end": "",
-          "img": "/img/uploads/calcas-flaneladas-felpadas-suplex-felpado-peluciadas-inverno-termicas-skinny-atacado.jpg",
-          "link": "https://www.lojastodoverde.com.br/flaneladas/"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
           "start": "2022-07-07T11:58:43.593Z",
           "end": "",
           "img": "/img/uploads/img_0797.jpg",
@@ -189,19 +189,6 @@
           "end": "",
           "img": "/img/uploads/img_0721.jpg",
           "link": "https://www.lojastodoverde.com.br/legging-premium-blackout"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/img_0733.jpg",
-          "link": "https://www.lojastodoverde.com.br/barbie-core"
         }
       ]
     },
