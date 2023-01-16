@@ -196,6 +196,17 @@
       "headless": false,
       "limit": 20,
       "page": 1
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1-camisas-femininas-todoverde-lojas-calcasfemininas-atacado-roupabarata-revenda-1precobaixo-ganhardinheiro.png"
+        },
+        {
+          "img": "/img/uploads/2-camisas-femininas-todoverde-lojas-atacado-roupabarata-revenda-precobaixo-ganhardinheiro.png"
+        }
+      ]
     }
   ]
 }
