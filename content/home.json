@@ -63,21 +63,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/camisas-femininas-todoverde-lojas-calcasfemininas-atacado-roupabarata-revenda-precobaixo-ganhardinheiro.jpg",
-          "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/skinnyprada-prada-calcaprada.png",
-          "link": "https://www.lojastodoverde.com.br/calcas-pradas/",
-          "mobile_img": "/img/uploads/skinnyprada-prada-calcaprada.png"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/pantalona-lojastodoverde-wideleg.png",
           "link": "https://www.lojastodoverde.com.br/pantalonas",
           "mobile_img": ""
