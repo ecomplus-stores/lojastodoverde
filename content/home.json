@@ -52,7 +52,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/1-camisas-femininas-todoverde-lojas-calcasfemininas-atacado-roupabarata-revenda-1precobaixo-ganhardinheiro.png"
+          "img": "/img/uploads/1-camisas-femininas-todoverde-lojas-calcasfemininas-atacado-roupabarata-revenda-1precobaixo-ganhardinheiro.png",
+          "link": "https://www.lojastodoverde.com.br/calcas/"
         },
         {
           "img": "/img/uploads/2-camisas-femininas-todoverde-lojas-atacado-roupabarata-revenda-precobaixo-ganhardinheiro.png"
@@ -63,29 +64,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/pantalona-lojastodoverde-wideleg.png",
-          "link": "https://www.lojastodoverde.com.br/pantalonas",
-          "mobile_img": ""
+          "img": "/img/uploads/3-camisas-femininas-todoverde-lojas-calcasfemininas-atacado-conjuntos-roupabarata-revenda-precobaixo-ganhardinheiro.png",
+          "link": "https://www.lojastodoverde.com.br/conjuntos"
         },
         {
-          "img": "/img/uploads/conjuntos-linho-lojastodoverde-todoverde-bras-atacado.png",
-          "link": "https://www.lojastodoverde.com.br/conjuntos",
-          "mobile_img": "/img/uploads/conjuntos-linho-lojastodoverde-todoverde-bras-atacado.png"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/blusas-lojastodoverde.png",
-          "link": "https://www.lojastodoverde.com.br/partes-de-cima",
-          "mobile_img": null
-        },
-        {
-          "img": "/img/uploads/moda-senhoras-gorgurinho-gorgurao-bermudas-capri-calca-senhoras-idosa.png",
-          "link": "https://www.lojastodoverde.com.br/calcas-com-elastico-na-cintura/",
-          "mobile_img": "/img/uploads/moda-senhoras-gorgurinho-gorgurao-bermudas-capri-calca-senhoras-idosa.png"
+          "img": "/img/uploads/4-camisas-femininas-todoverde-lojas-calcasfemininas-atacado-conjuntos-modasenhoras-gorgurinhos-roupabarata-revenda-precobaixo-ganhardinheiro.png",
+          "link": "https://www.lojastodoverde.com.br/calcas-com-elastico-na-cintura/"
         }
       ]
     },
@@ -192,19 +176,6 @@
       "headless": false,
       "limit": 20,
       "page": 1
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/3-camisas-femininas-todoverde-lojas-calcasfemininas-atacado-conjuntos-roupabarata-revenda-precobaixo-ganhardinheiro.png",
-          "link": "https://www.lojastodoverde.com.br/conjuntos"
-        },
-        {
-          "img": "/img/uploads/4-camisas-femininas-todoverde-lojas-calcasfemininas-atacado-conjuntos-modasenhoras-gorgurinhos-roupabarata-revenda-precobaixo-ganhardinheiro.png",
-          "link": "https://www.lojastodoverde.com.br/calcas-com-elastico-na-cintura/"
-        }
-      ]
     }
   ]
 }
