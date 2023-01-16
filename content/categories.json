@@ -9,7 +9,7 @@
     },
     {
       "type": "document-banner",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "category-retail",
