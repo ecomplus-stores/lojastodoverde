@@ -192,6 +192,15 @@
       "headless": false,
       "limit": 20,
       "page": 1
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/3-camisas-femininas-todoverde-lojas-calcasfemininas-atacado-conjuntos-roupabarata-revenda-precobaixo-ganhardinheiro.png",
+          "link": "https://www.lojastodoverde.com.br/conjuntos"
+        }
+      ]
     }
   ]
 }
