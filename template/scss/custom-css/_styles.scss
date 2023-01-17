@@ -9,5 +9,8 @@
       margin-top: 0;
       margin-bottom: 0;
       background: #d9cfc5 !important;
+      .row .col-12 {
+         max-width: 50%
+      }
     }
 }
