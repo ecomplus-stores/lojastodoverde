@@ -189,6 +189,15 @@
       "headless": false,
       "limit": 20,
       "page": 1
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/flaneladas-camisas-femininas-todoverde-lojas-calcasfemininas-atacado-roupabarata-revenda-precobaixo-ganhardinheiro-copiar.png",
+          "link": "https://www.lojastodoverde.com.br/flaneladas/"
+        }
+      ]
     }
   ]
 }
