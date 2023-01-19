@@ -76,6 +76,19 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/flaneladas-camisas-femininas-todoverde-lojas-calcasfemininas-atacado-roupabarata-revenda-precobaixo-ganhardinheiro-copiar.png",
+          "link": "https://www.lojastodoverde.com.br/flaneladas/"
+        },
+        {
+          "img": "/img/uploads/todosprodutos.png",
+          "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis"
+        }
+      ]
+    },
+    {
       "page": 1,
       "title": "NOVIDADES",
       "shuffle": true,
@@ -189,19 +202,6 @@
       "headless": false,
       "limit": 20,
       "page": 1
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/flaneladas-camisas-femininas-todoverde-lojas-calcasfemininas-atacado-roupabarata-revenda-precobaixo-ganhardinheiro-copiar.png",
-          "link": "https://www.lojastodoverde.com.br/flaneladas/"
-        },
-        {
-          "img": "/img/uploads/todosprodutos.png",
-          "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis"
-        }
-      ]
     }
   ]
 }
