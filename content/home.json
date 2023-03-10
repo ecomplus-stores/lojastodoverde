@@ -3,6 +3,15 @@
   "meta_description": "Calças femininas no atacado, com qualidade e preço justo, só na Todoverde. Enviamos para todo o Brasil e exterior",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/montaria-legging-flanelada-skinny-termica-quentinha-por-dentro-camurcada-felpada-copiar-2.jpg",
+          "link": "https://www.lojastodoverde.com.br/montaria-flanelada-colors-preta"
+        }
+      ]
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
