@@ -3,15 +3,13 @@
   "meta_description": "Calças femininas no atacado, com qualidade e preço justo, só na Todoverde. Enviamos para todo o Brasil e exterior",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
         {
-          "img": "/img/uploads/avaliacoes.png"
-        },
-        {
-          "img": "/img/uploads/dedded.png"
-        },
-        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/avalianoes-2.png"
         }
       ]
