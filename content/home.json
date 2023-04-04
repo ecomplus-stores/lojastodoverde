@@ -6,6 +6,14 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/avaliacoes.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/montaria-legging-flanelada-skinny-termica-quentinha-por-dentro-camurcada-felpada-copiar-2.jpg",
           "link": "https://www.lojastodoverde.com.br/montaria-flanelada-colors-preta"
         },
