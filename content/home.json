@@ -4,23 +4,33 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 7000,
       "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/avalianoes-2.png"
+          "img": "/img/uploads/av1.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/dedded.png"
+          "img": "/img/uploads/av2.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/avaliacoes.png"
+          "img": "/img/uploads/av3.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/av4.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/av5.jpg"
         }
       ]
     },
