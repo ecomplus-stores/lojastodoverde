@@ -4,6 +4,18 @@
   "sections": [
     {
       "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/onibusdeexcursoes-enviamos-correios-transportadoras-todoverde-bras-todosprodutos-copiar-123.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
       "autoplay": 7000,
       "full_width": false,
       "slides": [
@@ -16,18 +28,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/asdf.jpg"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/onibusdeexcursoes-enviamos-correios-transportadoras-todoverde-bras-todosprodutos-copiar-123.png"
         }
       ]
     },
