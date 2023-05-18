@@ -35,11 +35,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/trabalhar.jpg",
+          "img": "/img/uploads/trabalhar.webp",
           "link": "https://www.lojastodoverde.com.br/looks-para-trabalho"
         },
         {
-          "img": "/img/uploads/parte-de-cima.jpg",
+          "img": "/img/uploads/de-cima.webp",
           "link": "https://www.lojastodoverde.com.br/partes-de-cima"
         },
         {
@@ -47,7 +47,15 @@
           "link": "https://www.lojastodoverde.com.br/bbb/"
         },
         {
-          "img": "/img/uploads/bailarina.jpg",
+          "img": "/img/uploads/bailarina.webp",
+          "link": "https://www.lojastodoverde.com.br/calcas-flare"
+        },
+        {
+          "img": "/img/uploads/dia-dia.webp",
+          "link": "https://www.lojastodoverde.com.br/bbb/"
+        },
+        {
+          "img": "/img/uploads/todos-modelos.webp",
           "link": "https://www.lojastodoverde.com.br/calcas-flare"
         }
       ]

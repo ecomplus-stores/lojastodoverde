@@ -4,13 +4,28 @@
 //    display: none !important;
 //}
 
-@media(max-width: 767px) {
+@media(max-width: 991.99px) {
    #page-home .banners-grid {
       margin-top: 0;
       margin-bottom: 0;
-      background: #d9cfc5 !important;
+      // background: #d9cfc5 !important;
+      .row .col-12.col-lg-2 {
+         max-width: 50%;
+         padding: 0;
+         margin-bottom: 0;
+      }
+    }
+}
+
+@media(min-width: 992px) {
+   #page-home .banners-grid {
+      margin-top: 0.5rem;
+      margin-bottom: 0rem;
       .row .col-12 {
-         max-width: 50%
+         max-width: 33.33% !important;
+         flex: 0 0 33.33% !important;
+         padding: 0;
+         margin-bottom: 0;
       }
     }
 }
