@@ -1,7 +1,7 @@
 {
   "domain": "www.lojastodoverde.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#b5afaf",
+  "primary_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
