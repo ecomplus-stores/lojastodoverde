@@ -4,7 +4,7 @@ import ecomCart from '@ecomplus/shopping-cart'
 var lessUnit = document.getElementById('lessUnit')
 var firstphrase = document.getElementById('lessSome')
 var lastphrase = document.getElementById('noMore')
-var lessQuantity = 0.1
+var lessQuantity = 150
 lessUnit.innerHTML = window.ecomUtils.formatMoney(lessQuantity, 'BRL', 'pt_br')
 ecomCart.on('change', ({ data }) => {
   var cartCalc = document.querySelectorAll('#cart')
