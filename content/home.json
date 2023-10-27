@@ -10,6 +10,18 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/pecas-verao-todoverde-min.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/legging-flare-bailarina-bermudabiker-shorts-academia.png",
           "link": "https://www.lojastodoverde.com.br/basicos-e-essenciais---nao-fica-transparente"
         }
