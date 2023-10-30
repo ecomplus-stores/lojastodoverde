@@ -53,6 +53,25 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-04-07T02:12:14.990Z",
+          "end": "",
+          "img": "/img/uploads/calcas-flaneladas-peluciadas-felpadas-quentinhas-por-dentro-bras-atacado-roupabarata-3-felpadas-skinny-inverno-terminas.webp",
+          "link": "https://www.lojastodoverde.com.br/flaneladas/"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/linho-~1.jpg",
+          "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis"
+        }
+      ]
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -77,25 +96,6 @@
         },
         {
           "img": "/img/uploads/todos-modelos.webp",
-          "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-04-07T02:12:14.990Z",
-          "end": "",
-          "img": "/img/uploads/calcas-flaneladas-peluciadas-felpadas-quentinhas-por-dentro-bras-atacado-roupabarata-3-felpadas-skinny-inverno-terminas.webp",
-          "link": "https://www.lojastodoverde.com.br/flaneladas/"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/linho-~1.jpg",
           "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis"
         }
       ]
