@@ -18,6 +18,18 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-novo-frete-gratis.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
@@ -25,18 +37,6 @@
           "end": "",
           "img": "/img/uploads/ultimas-pecas-todoverde-copia-1-copiar.png",
           "link": "https://www.lojastodoverde.com.br/ultimas-pecas"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-novo-frete-gratis.png"
         }
       ]
     },
