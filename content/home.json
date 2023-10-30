@@ -95,6 +95,18 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/historia-todoverde.png"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
