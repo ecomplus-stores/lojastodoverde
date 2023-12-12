@@ -19,13 +19,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-novo-frete-gratis.png"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "banner-slider",
