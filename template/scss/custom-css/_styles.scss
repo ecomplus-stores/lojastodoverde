@@ -29,3 +29,7 @@
       }
     }
 }
+
+.prices__installments span:after, .payment-option__installment li:after {
+   content: ' com juros'
+}
