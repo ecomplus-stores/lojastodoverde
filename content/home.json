@@ -4,38 +4,6 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/pecas-verao-todoverde-min.png",
-          "link": "https://www.lojastodoverde.com.br/vem-verao"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": []
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/contorno-telefone-png-cone-download-35.png",
-          "link": "https://www.lojastodoverde.com.br/ultimas-pecas"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
       "autoplay": 7000,
       "full_width": false,
       "slides": [
@@ -54,7 +22,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/linho-~1.jpg",
+          "img": "/img/uploads/modelos-disponiveis-todoverde.webp",
           "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis"
         }
       ]
