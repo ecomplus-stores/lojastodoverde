@@ -4,18 +4,6 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 7000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/ddddd.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
       "slides": [
@@ -24,6 +12,18 @@
           "end": "",
           "img": "/img/uploads/modelos-disponiveis-todoverde.webp",
           "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 7000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ddddd.png"
         }
       ]
     },
