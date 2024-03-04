@@ -35,6 +35,19 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/calcas-flaneladas-peluciadas-felpadas-quentinhas-termicas-por-dentro.jpg",
+          "link": "https://www.lojastodoverde.com.br/flaneladas/"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/historia-todoverde.png"
         }
       ]
