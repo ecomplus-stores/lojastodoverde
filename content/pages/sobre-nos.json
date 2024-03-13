@@ -8,7 +8,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/menor.jpg"
+          "img": "/img/uploads/menor.jpg",
+          "link": "https://www.lojastodoverde.com.br/pages/sobre-nos"
         }
       ]
     }
