@@ -5,6 +5,18 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/envios-por-correios-.png-bras-todoverde.jpeg"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
@@ -12,18 +24,6 @@
           "end": "",
           "img": "/img/uploads/plus-size-risca-de-giz.jpg",
           "link": "https://www.lojastodoverde.com.br/plus-size"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/envios-por-correios-.png-bras-todoverde.jpeg"
         }
       ]
     },
