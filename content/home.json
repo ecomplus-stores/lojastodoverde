@@ -5,6 +5,19 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/plus-size-risca-de-giz.jpg",
+          "link": "https://www.lojastodoverde.com.br/plus-size"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": false,
       "slides": [
         {
