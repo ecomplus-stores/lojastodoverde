@@ -35,6 +35,19 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/whatsapp-image-2024-09-25-at-09.19.03.jpeg",
+          "link": "https://lojastodoverde.com.br/track-pants"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/modelos-disponiveis-todoverde-copiar.jpg",
           "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis"
         }
@@ -115,19 +128,6 @@
       "headless": false,
       "limit": 20,
       "page": 1
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2024-09-25-at-09.19.03.jpeg",
-          "link": "https://lojastodoverde.com.br/track-pants"
-        }
-      ]
     }
   ]
 }
