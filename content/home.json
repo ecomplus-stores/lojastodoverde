@@ -115,6 +115,19 @@
       "headless": false,
       "limit": 20,
       "page": 1
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2024-09-25-at-09.19.03.jpeg",
+          "link": "https://lojastodoverde.com.br/track-pants"
+        }
+      ]
     }
   ]
 }
