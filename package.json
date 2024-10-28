@@ -5,6 +5,9 @@
     "not ie 11",
     "not ie_mob 11"
   ],
+  "engines": {
+    "node": "16"
+  },
   "private": true,
   "name": "@ecomplus/storefront",
   "version": "2.0.0-starter",
@@ -37,11 +40,11 @@
     "url": "git+https://github.com/ecomplus/storefront-starter.git"
   },
   "dependencies": {
-    "@ecomplus/storefront-template": "^2.0.0-beta.223",
-    "@netlify/zip-it-and-ship-it": "^8.1.0",
-    "firebase-tools": "^11.17.0"
+    "@ecomplus/storefront-template": "^2.0.0-beta.275",
+    "@netlify/zip-it-and-ship-it": "^8.10.0",
+    "firebase-tools": "^11.30.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.27.10"
+    "browser-sync": "^3.0.3"
   }
 }
