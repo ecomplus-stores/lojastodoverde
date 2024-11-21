@@ -46,6 +46,19 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/linho-calcaemlinhopuro-linhopuro-linhocem-linho100-camisalinho-feminina-roupasfemininasemlinho-linhoregatafeminina-1-.jpg",
+          "link": "https://www.todoverdeonibus.com.br/colecao-linho"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
           "start": "2024-09-25T13:32:09.322Z",
           "end": "",
           "img": "/img/uploads/whatsapp-image-2024-09-25-at-09.19.03.jpeg",
