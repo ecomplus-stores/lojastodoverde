@@ -5,6 +5,19 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis",
+          "img": "/img/uploads/fornecedor-bras-atacado-roupa-barata-para-revenda-1-.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": false,
       "slides": [
         {
@@ -50,19 +63,6 @@
           "end": "",
           "img": "/img/uploads/whatsapp-image-2024-09-25-at-09.19.03.jpeg",
           "link": "https://lojastodoverde.com.br/track-pants"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/modelos-disponiveis-copiar.png",
-          "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis"
         }
       ]
     },
