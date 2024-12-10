@@ -10,6 +10,18 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/looks-prontos-para-voce-se-inspirar.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis",
           "img": "/img/uploads/fornecedor-bras-atacado-roupa-barata-para-revenda-1-.png"
         }
