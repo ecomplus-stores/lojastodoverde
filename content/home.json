@@ -5,12 +5,37 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/site-exclusivo.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/looks-prontos-para-voce-se-inspirar.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/pecas-em-liquidacao-1-.png",
+          "link": "https://www.lojastodoverde.com.br/pecas-em-liquidacao"
         }
       ]
     },
@@ -30,18 +55,6 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/site-exclusivo.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
@@ -49,19 +62,6 @@
           "end": "",
           "img": "/img/uploads/linho-calcaemlinhopuro-linhopuro-linhocem-linho100-camisalinho-feminina-roupasfemininasemlinho-linhoregatafeminina-1-.jpg",
           "link": "https://www.lojastodoverde.com.br/colecao-linho"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/pecas-em-liquidacao-1-.png",
-          "link": "https://www.lojastodoverde.com.br/pecas-em-liquidacao"
         }
       ]
     },
