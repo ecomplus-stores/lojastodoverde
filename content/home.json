@@ -10,6 +10,18 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/lencos-femininos-cetim-amarrar-na-moda-fashion-looks-com-lencos.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/site-exclusivo-copiar.png"
         }
       ]
