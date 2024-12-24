@@ -10,7 +10,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/1-lencos-femininos-cetim-amarrar-na-moda-fashion-looks-com-lencos.jpg"
+          "img": "/img/uploads/site-exclusivo-copiar.png"
         }
       ]
     },
@@ -22,20 +22,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/site-exclusivo-copiar.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis",
-          "img": "/img/uploads/fornecedor-bras-atacado-roupa-barata-para-revenda-1-.png"
+          "img": "/img/uploads/1-lencos-femininos-cetim-amarrar-na-moda-fashion-looks-com-lencos.jpg"
         }
       ]
     },
@@ -49,6 +36,19 @@
           "end": "",
           "img": "/img/uploads/pecas-em-liquidacao-1-.png",
           "link": "https://www.lojastodoverde.com.br/pecas-em-liquidacao"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis",
+          "img": "/img/uploads/fornecedor-bras-atacado-roupa-barata-para-revenda-1-.png"
         }
       ]
     },
