@@ -5,6 +5,19 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/linho-100-por-cento-puro-barato-atacado-chic.jpg",
+          "link": "https://www.lojastodoverde.com.br/colecao-linho"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": false,
       "slides": [
         {
@@ -63,19 +76,6 @@
           "end": "",
           "img": "/img/uploads/looks-prontos-para-voce-se-inspirar.jpg",
           "link": "https://lojastodoverde.com.br/looks-prontos"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/linho-100-por-cento-puro-barato-atacado-chic.jpg",
-          "link": "https://www.lojastodoverde.com.br/colecao-linho"
         }
       ]
     },
