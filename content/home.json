@@ -35,6 +35,19 @@
         {
           "start": "",
           "end": "",
+          "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis",
+          "img": "/img/uploads/fornecedor-bras-atacado-roupa-barata-para-revenda-1-.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/pecas-em-liquidacao-1-.png",
           "link": "https://www.lojastodoverde.com.br/pecas-em-liquidacao"
         }
@@ -85,19 +98,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/camisa-feminina-elegatnte.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis",
-          "img": "/img/uploads/fornecedor-bras-atacado-roupa-barata-para-revenda-1-.png"
         }
       ]
     },
