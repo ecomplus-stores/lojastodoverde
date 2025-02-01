@@ -60,8 +60,56 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/linho-100-.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 10000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/conjuntos-femininos-com-qualidade.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/camisa-feminina-elegatnte.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "link": "https://www.lojastodoverde.com.br/todos-produtos---disponiveis",
           "img": "/img/uploads/fornecedor-bras-atacado-roupa-barata-para-revenda-1-.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/saias-e-shorts-feminios.png"
         }
       ]
     },
