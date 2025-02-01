@@ -42,6 +42,18 @@
     },
     {
       "type": "banner-slider",
+      "autoplay": 7000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/avaliacoes-copiar12.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
       "slides": [
@@ -63,57 +75,6 @@
           "end": "",
           "img": "/img/uploads/calcas-com-qualidade-feminina.png",
           "link": "https://lojastodoverde.com.br/looks-prontos"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2024-09-25T13:32:09.322Z",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2024-09-25-at-09.19.03.jpeg",
-          "link": "https://lojastodoverde.com.br/track-pants"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/159.jpg",
-          "link": "https://www.lojastodoverde.com.br/short-saia-lapelas-frontais-laranja-c982"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/calcas-flaneladas-peluciadas-felpadas-quentinhas-termicas-por-dentro.jpg",
-          "link": "https://www.lojastodoverde.com.br/flaneladas/"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 7000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/avaliacoes-copiar12.png"
         }
       ]
     },
