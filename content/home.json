@@ -5,18 +5,6 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/site-exclusivo123.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
@@ -24,6 +12,18 @@
           "end": "",
           "img": "/img/uploads/todoverde.png",
           "link": ""
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/site-exclusivo123.png"
         }
       ]
     },
