@@ -37,10 +37,8 @@
 .app__header {
     background: #f8f9fa
 }
-@media (min-width: 992px) {
-    .product-card__picture img {
-        max-height: 400px; /* Aumenta a altura */
-        width: 120%; /* Aumenta a largura além do container */
-        object-fit: cover; /* Mantém o corte adequado da imagem */
-    }
+.product-card__picture img {
+    max-height: none;
+    width: 100%;
+    object-fit: cover;
 }
