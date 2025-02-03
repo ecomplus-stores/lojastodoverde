@@ -39,6 +39,8 @@
 }
 @media (min-width: 992px) {
     .product-card__picture img {
-        max-height: 500px;
+        max-height: 400px; /* Aumenta a altura */
+        width: 120%; /* Aumenta a largura além do container */
+        object-fit: cover; /* Mantém o corte adequado da imagem */
     }
 }
