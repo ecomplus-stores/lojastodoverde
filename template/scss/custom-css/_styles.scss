@@ -37,3 +37,8 @@
 .app__header {
     background: #f8f9fa
 }
+@media (min-width: 992px) {
+    .product-card__picture img {
+        max-height: 400px;
+    }
+}
