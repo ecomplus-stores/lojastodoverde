@@ -177,6 +177,18 @@
       "headless": false,
       "limit": 20,
       "page": 1
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2025-02-04-at-10.36.08.jpeg"
+        }
+      ]
     }
   ]
 }
