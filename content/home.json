@@ -55,8 +55,8 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 7000,
-      "full_width": false,
+      "autoplay": 5000,
+      "full_width": true,
       "slides": [
         {
           "start": "",
