@@ -78,7 +78,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/linho-100-.png"
+          "img": "/img/uploads/linho-100-.png",
+          "link": "https://www.lojastodoverde.com.br/linho"
         }
       ]
     },
@@ -90,7 +91,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/conjuntos-femininos-com-qualidade.png"
+          "img": "/img/uploads/conjuntos-femininos-com-qualidade.png",
+          "link": "https://www.lojastodoverde.com.br/conjuntos"
         }
       ]
     },
@@ -102,7 +104,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/camisa-feminina-elegatnte.png"
+          "img": "/img/uploads/camisa-feminina-elegatnte.png",
+          "link": "https://www.lojastodoverde.com.br/partes-de-cima"
         }
       ]
     },
@@ -114,7 +117,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/saias-e-shorts-feminios.png"
+          "img": "/img/uploads/saias-e-shorts-feminios.png",
+          "link": "https://www.lojastodoverde.com.br/saias-e-shorts"
         }
       ]
     },
@@ -127,7 +131,8 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/calcas-com-qualidade-feminina.png",
-          "link": "https://lojastodoverde.com.br/looks-prontos"
+          "link": "https://lojastodoverde.com.br/looks-prontos",
+          "alt": "https://www.lojastodoverde.com.br/calcas"
         }
       ]
     },
