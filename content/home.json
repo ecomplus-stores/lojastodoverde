@@ -139,12 +139,13 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": true,
+      "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/whatsapp-image-2025-02-04-at-10.36.08.jpeg"
+          "img": "/img/uploads/whatsapp-image-2025-02-04-at-10.36.08.jpeg",
+          "link": "https://www.lojastodoverde.com.br/vestidos"
         }
       ]
     },
