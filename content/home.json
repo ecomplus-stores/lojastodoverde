@@ -130,6 +130,33 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/moda-senhora.png",
+          "link": "https://www.lojastodoverde.com.br/moda-senhora"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/acessorios.png",
+          "alt": "",
+          "link": "https://www.lojastodoverde.com.br/acessorios"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/calcas-com-qualidade-feminina.png",
           "link": "ttps://www.lojastodoverde.com.br/calcas",
           "alt": ""
