@@ -75,6 +75,7 @@
          img{
             object-fit: cover;
             aspect-ratio: .7;
+            max-height: unset!important;
          }
       }
    }
