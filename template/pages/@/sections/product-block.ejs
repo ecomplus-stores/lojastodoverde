@@ -95,14 +95,6 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
 
           <div id="product-actions">
             <div id="product-loading">
-              <% if (_.state.available && _.state.visible && _.ecomUtils.inStock(_.state)) { %>
-                <div class="product__price prices prices--big">
-                  <strong class="prices__value">
-                    <%= _.ecomUtils.formatMoney(_.ecomUtils.price(_.state)) %>
-                  </strong>
-                </div>
-              <% } %>
-
               <% if (_.state.variations && _.state.variations.length) { %>
                 <div data-slot="variations-info">
                   <!-- Custom info for products with variations, such as sizes table link -->

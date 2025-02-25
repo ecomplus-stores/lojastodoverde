@@ -15,6 +15,7 @@ import {
   formatMoney
 } from '@ecomplus/utils'
 
+import ecomPassport from '@ecomplus/passport-client'
 import waitStorefrontInfo from '@ecomplus/storefront-components/src/js/helpers/wait-storefront-info'
 
 const getPriceWithDiscount = (price, discount) => {
@@ -133,6 +134,10 @@ export default {
         }
       }
       return 0
+    },
+
+    isLogged () {
+      return ecomPassport.checkAuthorization()
     }
   },
 
@@ -159,6 +164,15 @@ export default {
           this.discountLabel = `via ${discount.label}`
         }
       }
+    },
+
+    toggleLogin () {
+      const userBtn = document.getElementById('user-button')
+      if (userBtn) {
+        userBtn.click()
+        return
+      }
+      window.location.href = '/app/#/account/'
     }
   },
 

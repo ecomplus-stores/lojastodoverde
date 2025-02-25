@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.autoSave": "off",
+  "files.autoSaveDelay": 5000,
+  "standard.enable": true,
+  "files.associations": {
+    "**/html/*.html": "vue-html",
+    "**/components/*.html": "vue-html"
+  },
+  "css.validate": false,
+  "scss.validate": true
+}

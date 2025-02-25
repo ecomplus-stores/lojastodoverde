@@ -7,7 +7,6 @@ if (Array.isArray(_.itemDataFields)) {
 }
 itemDataFields.forEach(field => itemData[field] = opt.item[field])
 itemData.name = _.ecomUtils.name(opt.item)
-itemData.price = _.ecomUtils.price(opt.item)
 
 const imgObj = _.ecomUtils.img(opt.item)
 if (imgObj) {
@@ -83,16 +82,6 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
         </h3>
       </div>
     </a>
-
-    <div class="product-card__prices prices">
-      <strong class="prices__value">
-        <% if (opt.item.available && opt.item.visible && _.ecomUtils.inStock(opt.item)) { %>
-          <%= _.ecomUtils.formatMoney(itemData.price) %>
-        <% } else { %>
-          --
-        <% } %>
-      </strong>
-    </div>
 
     <!-- Customize add to cart button content:
     <div data-slot="buy-button-content">
