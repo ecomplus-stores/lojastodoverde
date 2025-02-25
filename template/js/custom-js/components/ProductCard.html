@@ -107,6 +107,7 @@
         </slot>
 
         <div
+          v-if="isLogged"
           @click="buy"
           class="product-card__buy fade"
         >
