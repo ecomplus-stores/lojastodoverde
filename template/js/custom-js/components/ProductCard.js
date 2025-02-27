@@ -132,6 +132,10 @@ export default {
       return ecomPassport.checkAuthorization()
     },
 
+    canBuy () {
+      return ecomPassport.checkLogin()
+    },
+
     discount () {
       const { body } = this
       return checkOnPromotion(body)
@@ -178,6 +182,7 @@ export default {
     },
 
     buy () {
+      if (!this.canBuy) return
       const product = this.body
       this.$emit('buy', { product })
       if (this.canAddToCart) {

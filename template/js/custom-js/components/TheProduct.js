@@ -217,6 +217,10 @@ export default {
       return ecomPassport.checkAuthorization()
     },
 
+    canBuy () {
+      return ecomPassport.checkLogin()
+    },
+
     thumbnail () {
       return getImg(this.body, null, 'small')
     },
@@ -395,6 +399,7 @@ export default {
     },
 
     buy () {
+      if (!this.canBuy) return
       this.hasClickedBuy = true
       const product = sanitizeProductBody(this.body)
       let variationId

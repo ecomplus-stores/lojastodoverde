@@ -137,7 +137,7 @@ export default {
     },
 
     isLogged () {
-      return ecomPassport.checkAuthorization()
+      return ecomPassport.checkLogin()
     }
   },
 

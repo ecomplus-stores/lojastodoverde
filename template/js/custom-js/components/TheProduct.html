@@ -32,7 +32,7 @@
             <slot name="stamps"/>
             <product-gallery
               :product="body"
-              :can-add-to-cart="canAddToCart && body.available && isInStock"
+              :can-add-to-cart="canAddToCart && canBuy && body.available && isInStock"
               :current-slide.sync="currentGalleyImg"
               :is-s-s-r="isSSR"
             >
@@ -242,7 +242,7 @@
               </div>
 
               <div
-                v-else-if="isLogged && hasBuyButton"
+                v-else-if="hasBuyButton && canBuy"
                 class="product__buy"
                 ref="buy"
               >
