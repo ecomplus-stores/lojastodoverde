@@ -218,7 +218,7 @@ export default {
     },
 
     canBuy () {
-      return ecomPassport.checkLogin()
+      return ecomPassport.checkLogin() && ecomPassport.getCustomer().state === 'registered'
     },
 
     thumbnail () {

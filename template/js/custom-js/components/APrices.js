@@ -138,6 +138,10 @@ export default {
 
     isLogged () {
       return ecomPassport.checkLogin()
+    },
+
+    canBuy () {
+      return this.isLogged && ecomPassport.getCustomer().state === 'registered'
     }
   },
 
