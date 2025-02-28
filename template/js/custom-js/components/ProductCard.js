@@ -133,7 +133,7 @@ export default {
     },
 
     canBuy () {
-      return ecomPassport.checkLogin() // to approve users // && ecomPassport.getCustomer().state === 'registered' 
+      return ecomPassport.checkLogin()
     },
 
     discount () {
