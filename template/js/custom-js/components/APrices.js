@@ -139,10 +139,10 @@ export default {
     isLogged () {
       return ecomPassport.checkLogin()
     },
-
+    /* to approve users
     canBuy () {
       return this.isLogged && ecomPassport.getCustomer().state === 'registered'
-    }
+    }*/
   },
 
   methods: {
