@@ -232,11 +232,6 @@ export default {
         return `${this.guide ? this.guide.trim() + ';' : ''}${this.busAndParking ? this.busAndParking.trim() + ';' : ''}${this.dateAndTime ? this.dateAndTime.trim() + ';' : ''}${this.busLocation ? this.busLocation.trim() + ';' : ''}${this.shoppingAddress ? this.shoppingAddress.trim() : ''}`
       }
       if(this.guide || this.busLocation || this.shoppingAddress || this.dateAndTime || this.busAndParking){
-        this.guide = ''
-        this.busAndParking = ''
-        this.dateAndTime = ''
-        this.busLocation = ''
-        this.shoppingAddress = ''
         this.notes = ''
       }
       return this.notes
