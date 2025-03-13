@@ -61,7 +61,7 @@
    padding-bottom: 1.5rem;
    .product-card__pictures{
       max-height: unset;
-      aspect-ratio: .7;
+      aspect-ratio: 0.5625;
       width: 100%;
       height: auto;
       border-radius: .5rem;
@@ -74,7 +74,7 @@
 
          img{
             object-fit: cover;
-            aspect-ratio: .7;
+            aspect-ratio: 0.5625;
             max-height: unset!important;
          }
       }
