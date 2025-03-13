@@ -18,12 +18,13 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/site-exclusivo123.png"
+          "img": "/img/uploads/regatas-poliamidas-femininas-decote-quadrado-alcas-largas-escondem-sutia.png",
+          "link": "https://www.lojastodoverde.com.br/regata-froozen-poliamida"
         }
       ]
     },
