@@ -4,6 +4,23 @@
   "sections": [
     {
       "type": "banner-slider",
+      "autoplay": 2000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/avaliacoe.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/avaliacoe12.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
       "slides": [
@@ -51,23 +68,6 @@
           "end": "",
           "img": "/img/uploads/pecas-em-liquidacao-1-.png",
           "link": "https://www.lojastodoverde.com.br/liquidacao"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 2000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/avaliacoe.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/avaliacoe12.png"
         }
       ]
     },
@@ -158,7 +158,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/calcas-com-qualidade-feminina.png",
+          "img": "/img/uploads/calcas-femininas-de-qualidade-atacado-preco-de-revenda-fornecedor-bras-bom-retiro-roupa-barata.png",
           "link": "https://www.lojastodoverde.com.br/calcas ",
           "alt": ""
         }
