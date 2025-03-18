@@ -53,6 +53,20 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/calcas-femininas-de-qualidade-atacado-preco-de-revenda-fornecedor-bras-bom-retiro-roupa-barata.png",
+          "link": "https://www.lojastodoverde.com.br/calcas ",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "link": "https://www.lojastodoverde.com.br/todos-os-produtos---disponiveis",
           "img": "/img/uploads/fornecedor-bras-atacado-roupa-barata-para-revenda-1-.png"
         }
@@ -147,20 +161,6 @@
           "img": "/img/uploads/acessorios.png",
           "alt": "",
           "link": "https://www.lojastodoverde.com.br/acessorios"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/calcas-femininas-de-qualidade-atacado-preco-de-revenda-fornecedor-bras-bom-retiro-roupa-barata.png",
-          "link": "https://www.lojastodoverde.com.br/calcas ",
-          "alt": ""
         }
       ]
     },
