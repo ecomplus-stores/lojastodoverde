@@ -176,13 +176,13 @@
                     </div>
                   </div>
                 </div>
-
+                
                 <transition
                   enter-active-class="animated fadeInDown"
                   leave-active-class="animated fadeOutUp"
                 >
                   <button
-                    v-if="!isEditingAddr && localParseNotes && shownCheckoutStep === 1 && enabledCheckoutStep >= 2"
+                    v-if="!isEditingAddr && (shippingService && shippingService.app_id == 1253 && shippingService.label.includes('ÔNIBUS/EXCURSÃO') ? (localParseNotes ? true : false) : true) && shownCheckoutStep === 1 && enabledCheckoutStep >= 2"
                     class="checkout__btn-proceed btn btn-success mt-4"
                     @click="toCheckoutStep = 2"
                   >
