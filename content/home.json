@@ -73,7 +73,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "banner-slider",
