@@ -4,18 +4,6 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 2000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/loja-confiavel-bras-atacado-roupas-para-revenda-lojista-bomretiro.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
       "slides": [
@@ -77,6 +65,18 @@
           "end": "",
           "img": "/img/uploads/pecas-em-liquidacao-1-promocso.png",
           "link": "https://www.lojastodoverde.com.br/liquidacao"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 2000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/loja-confiavel-bras-atacado-roupas-para-revenda-lojista-bomretiro.png"
         }
       ]
     },
