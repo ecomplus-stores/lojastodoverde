@@ -12,7 +12,8 @@
   },
   "categories_list": {
     "featured": [
-      "/liquidacao?LIQUIDAÇÃO"
+      "/liquidacao?LIQUIDAÇÃO",
+      "/todos-os-produtos---disponiveis?TODOS OS PRODUTOS - DISPONÍVEIS"
     ],
     "random": 0,
     "full_width": true
