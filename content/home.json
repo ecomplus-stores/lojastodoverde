@@ -160,20 +160,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/acessorios.png",
-          "alt": "",
-          "link": "https://www.lojastodoverde.com.br/acessorios"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/vestidos-femininos.jpg",
           "link": "https://www.lojastodoverde.com.br/vestidos"
         }
