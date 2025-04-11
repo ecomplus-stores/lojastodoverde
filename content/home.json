@@ -83,7 +83,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 9,
+      "limit": 24,
       "page": 1,
       "sort": "news"
     },
