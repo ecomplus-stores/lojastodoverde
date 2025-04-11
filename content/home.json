@@ -83,9 +83,9 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
+      "limit": 9,
       "page": 1,
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "banner-slider",
