@@ -17,6 +17,18 @@
     },
     {
       "type": "banner-slider",
+      "autoplay": 2000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/loja-confiavel-bras-atacado-roupas-para-revenda-lojista-bomretiro.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
       "slides": [
@@ -74,18 +86,6 @@
       "limit": 12,
       "page": 1,
       "sort": "views"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 2000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/loja-confiavel-bras-atacado-roupas-para-revenda-lojista-bomretiro.png"
-        }
-      ]
     },
     {
       "type": "banner-slider",
