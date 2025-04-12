@@ -29,13 +29,18 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 2000,
-      "full_width": true,
+      "autoplay": 9000,
+      "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/loja-confiavel-bras-atacado-roupas-para-revenda-lojista-bomretiro.png"
+          "img": "/img/uploads/loja-confiavel-para-comprar-no-bras-fornecedor.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/loja-confiavel-para-comprar-no-bras-fornecedor-1.png"
         }
       ]
     },
