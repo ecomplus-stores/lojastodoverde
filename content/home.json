@@ -223,6 +223,16 @@
       "headless": false,
       "limit": 20,
       "page": 1
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_ids": [
+        "67a08c1253d3dd5b9c59701a:categories:CALÇAS:/calcas"
+      ],
+      "sort": "sales"
     }
   ]
 }
