@@ -16,6 +16,18 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/elogio-todoverde.jpg"
+        }
+      ]
+    },
+    {
       "type": "shelfs-nav",
       "shuffle": false,
       "limit": 12,
