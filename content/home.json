@@ -16,16 +16,6 @@
       ]
     },
     {
-      "type": "shelfs-nav",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_ids": [
-        "67a08c1253d3dd5b9c59701a:categories:CALÇAS:/calcas"
-      ],
-      "sort": "sales"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -51,6 +41,16 @@
           "link": "https://www.lojastodoverde.com.br/search?term=Cinto"
         }
       ]
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_ids": [
+        "67a08c1253d3dd5b9c59701a:categories:CALÇAS:/calcas"
+      ],
+      "sort": "sales"
     },
     {
       "type": "banner-slider",
