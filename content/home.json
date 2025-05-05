@@ -28,6 +28,20 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/calcas-no-atacado-bras-todoverde-1-.png",
+          "link": "https://www.lojastodoverde.com.br/calcas ",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": false,
       "slides": [
         {
@@ -35,20 +49,6 @@
           "end": "",
           "img": "/img/uploads/acessorios-todoverde-1-.png",
           "link": "https://www.lojastodoverde.com.br/search?term=Cinto"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/calcas-femininas-de-qualidade-atacado-preco-de-revenda-fornecedor-bras-bom-retiro-roupa-barata.png",
-          "link": "https://www.lojastodoverde.com.br/calcas ",
-          "alt": ""
         }
       ]
     },
