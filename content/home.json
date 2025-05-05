@@ -44,19 +44,6 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/parte-de-cima-todverde-1-.png",
-          "link": "https://www.lojastodoverde.com.br/partes-de-cima"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
       "autoplay": 10000,
       "full_width": true,
       "slides": [
@@ -65,6 +52,19 @@
           "end": "",
           "img": "/img/uploads/conjuntos-femininos-1-.png",
           "link": "https://www.lojastodoverde.com.br/conjuntos"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/parte-de-cima-todverde-1-.png",
+          "link": "https://www.lojastodoverde.com.br/partes-de-cima"
         }
       ]
     },
