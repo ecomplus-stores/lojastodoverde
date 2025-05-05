@@ -5,24 +5,12 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/carrinho-abandonado-selos-de-seguranca-para-ecommerce-1569-copiar.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/todoverde-1-.png",
+          "img": "/img/uploads/regata-tecnologica-naopegapelo-naoamassa-poliamida-1-1-.png",
           "link": ""
         }
       ]
