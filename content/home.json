@@ -76,36 +76,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/regatas-poliamidas-femininas-decote-quadrado-alcas-largas-escondem-sutia.png",
-          "link": "https://www.lojastodoverde.com.br/regata-froozen-poliamida"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/loja-confiavel-para-comprar-no-bras-fornecedor.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/loja-confiavel-para-comprar-no-bras-fornecedor-1.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
           "link": "https://www.lojastodoverde.com.br/todos-os-produtos---disponiveis",
           "img": "/img/uploads/fornecedor-bras-atacado-roupa-barata-para-revenda-1-.png"
         }
