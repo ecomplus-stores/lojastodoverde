@@ -108,6 +108,16 @@
       ]
     },
     {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_ids": [
+        "67a08c1253d3dd5b9c59701a:categories:CALÇAS:/calcas"
+      ],
+      "sort": "sales"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "62487e212e405e04ff19110e:categories:TODOS OS PRODUTOS:/todos-os-produtos/",
