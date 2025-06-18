@@ -37,6 +37,19 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/2-1-.png",
+          "link": "https://www.lojastodoverde.com.br/vestidos"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/acessorios-todoverde-1-.png",
           "link": "https://www.lojastodoverde.com.br/search?term=Cinto"
         }
@@ -153,19 +166,6 @@
           "end": "",
           "img": "/img/uploads/mdoa-senhoras-calca-gorgurinho-capri-gorgurinho-bermuda-gorgurinho.jpg",
           "link": "https://www.lojastodoverde.com.br/moda-senhora"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/2-1-.png",
-          "link": "https://www.lojastodoverde.com.br/vestidos"
         }
       ]
     },
