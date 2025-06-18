@@ -44,19 +44,6 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/acessorios-todoverde-1-.png",
-          "link": "https://www.lojastodoverde.com.br/search?term=Cinto"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
       "autoplay": 10000,
       "full_width": true,
       "slides": [
@@ -76,7 +63,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/parte-de-cima-todverde-1-.png",
+          "img": "/img/uploads/regatas-e-blusas-1-.png",
           "link": "https://www.lojastodoverde.com.br/partes-de-cima"
         }
       ]
