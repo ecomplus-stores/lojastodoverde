@@ -10,6 +10,19 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/pecas-em-promocao-todoverde-atacado.png",
+          "link": "https://www.lojastodoverde.com.br/liquidacao"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/regata-poliamida-barato-revenda-direto-da-fabrica-preco-bom-baixo-qualidade-bras-bom-retiro-forrada-plus-copiar-1-.webp",
           "link": "https://www.lojastodoverde.com.br/regata-froozen-poliamida"
         }
@@ -104,19 +117,6 @@
           "end": "",
           "link": "https://www.lojastodoverde.com.br/todos-os-produtos---disponiveis",
           "img": "/img/uploads/1-todos-modelos-disponiveis-todoverde.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/pecas-em-promocao-todoverde-atacado.png",
-          "link": "https://www.lojastodoverde.com.br/liquidacao"
         }
       ]
     },
