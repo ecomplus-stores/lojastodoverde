@@ -44,6 +44,19 @@
     },
     {
       "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/saias-e-shorts-1-.png",
+          "link": "https://www.lojastodoverde.com.br/saias-e-shorts"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
       "autoplay": 10000,
       "full_width": true,
       "slides": [
@@ -127,19 +140,6 @@
           "end": "",
           "img": "/img/uploads/linho100porcento-linho-puro-linho-italiano-linho-de-qualidade.jpg",
           "link": "https://www.lojastodoverde.com.br/linho"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/saias-e-shorts-1-.png",
-          "link": "https://www.lojastodoverde.com.br/saias-e-shorts"
         }
       ]
     },
