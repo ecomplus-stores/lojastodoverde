@@ -121,16 +121,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "62487e212e405e04ff19110e:categories:TODOS OS PRODUTOS:/todos-os-produtos/",
-      "sort": "news",
-      "title": "Lançamentos",
-      "headless": false,
-      "limit": 20,
-      "page": 1
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
