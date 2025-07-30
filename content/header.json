@@ -1,15 +1,4 @@
 {
-  "marketing_stripe": {
-    "text": "Dúvidas sobre seu pedido ? Clique aqui para ser atendido",
-    "link": "https://wa.me/5511970591396?text=Ol%C3%A1,%20tenho%20uma%20d%C3%BAvida%20ao%20comprar%20no%20site%20!",
-    "background": "#000000",
-    "color": "#ffffff"
-  },
-  "contacts_stripe": {
-    "pages": [],
-    "phone_wpp": true,
-    "socials": true
-  },
   "categories_list": {
     "featured": [
       "/todos-os-produtos---disponiveis?TODOS OS PRODUTOS - DISPONÍVEIS"
@@ -17,9 +6,21 @@
     "random": 0,
     "full_width": true
   },
-  "desktop_megamenu": false,
-  "search_input": true,
+  "menu_all_departments": false,
+  "marketing_stripe": {
+    "text": "Dúvidas sobre seu pedido ? Clique aqui para ser atendido",
+    "link": "https://wa.me/5511970591396?text=Ol%C3%A1,%20tenho%20uma%20d%C3%BAvida%20ao%20comprar%20no%20site%20!",
+    "background": "#000000",
+    "color": "#ffffff"
+  },
   "alphabetical_order_submenu": true,
+  "popup": "/img/uploads/white-and-green-modern-coupon-discount-your-story.png.png-1-.png",
+  "search_input": true,
+  "desktop_megamenu": false,
   "full_width_submenu": true,
-  "popup": ""
+  "contacts_stripe": {
+    "pages": [],
+    "phone_wpp": true,
+    "socials": true
+  }
 }
