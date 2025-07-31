@@ -21,6 +21,6 @@
   "contacts_stripe": {
     "pages": [],
     "phone_wpp": true,
-    "socials": false
+    "socials": true
   }
 }
