@@ -22,19 +22,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/pecas-em-promocao-todoverde-atacado.png",
-          "link": "https://www.lojastodoverde.com.br/liquidacao"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/gray-red-modern-basic-clothing-fashion-instagram-story.jpg",
           "link": "https://www.lojastodoverde.com.br/regata-froozen-poliamida"
         }
@@ -142,6 +129,19 @@
           "end": "",
           "img": "/img/uploads/linho100porcento-linho-puro-linho-italiano-linho-de-qualidade.jpg",
           "link": "https://www.lojastodoverde.com.br/linho"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/pecas-em-promocao-todoverde-atacado.png",
+          "link": "https://www.lojastodoverde.com.br/liquidacao"
         }
       ]
     },
