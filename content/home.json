@@ -4,13 +4,13 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
+      "autoplay": 3000,
+      "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/site-em-3x-sem-juros-promocao.png"
+          "img": "/img/uploads/aproveite-site-em-3x-sem-juros-promocao.png"
         }
       ]
     },
