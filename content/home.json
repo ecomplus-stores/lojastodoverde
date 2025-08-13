@@ -4,18 +4,6 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 3000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/aproveite-site-em-3x-sem-juros-promocao.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
       "slides": [
@@ -24,6 +12,18 @@
           "end": "",
           "img": "/img/uploads/k-poliamida-regata-poliamida-barato-revenda-direto-da-fabrica-preco-bom-baixo-qualidade-bras-bom-retiro-forrada-todoverde.jpg",
           "link": "https://www.lojastodoverde.com.br/regata-froozen-poliamida"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 3000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/aproveite-site-em-3x-sem-juros-promocao.png"
         }
       ]
     },
