@@ -50,19 +50,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/calca-flora-preta.jpg",
-          "link": "https://www.lojastodoverde.com.br/calca-flora-risca-de-giz"
-        },
-        {
-          "img": "/img/uploads/legging-leg-leguim-legg-qualidade-nao-fica-transparente-top-elastano-estica-confortavel.jpg",
-          "link": "https://www.lojastodoverde.com.br/legging-poliamida-nao-fica-transparente"
-        }
-      ]
-    },
-    {
       "type": "custom-content",
       "markdown": "![](/img/uploads/legging-leg-leguim-legg-qualidade-nao-fica-transparente-top-elastano-estica-confortavel.jpg)\n\n![](/img/uploads/calca-flora-preta.jpg)"
     },
