@@ -17,13 +17,23 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 3000,
+      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/aproveite-site-em-3x-sem-juros-promocao.png"
+          "img": "/img/uploads/3x-sem-juros.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/envios-no-mesmo-dia.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/cuoim-de-desconto.webp"
         }
       ]
     },
