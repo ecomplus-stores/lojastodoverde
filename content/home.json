@@ -4,6 +4,18 @@
   "sections": [
     {
       "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/1liquidacao-todoverde-blackfriday-1-copiar.webp"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
       "autoplay": 7000,
       "full_width": true,
       "slides": [
