@@ -18,13 +18,14 @@
     {
       "type": "shelfs-nav",
       "shuffle": true,
-      "limit": 10,
+      "limit": 12,
       "page": 10,
       "collection_ids": [
-        "672e253186609e53f8723628:collections:PEÇAS EM LIQUÍDAÇÃO:/pecas-em-liquidacao"
+        "67b5f5c653d3dd5b9c717f81:categories:LIQUIDAÇÃO:/liquidacao"
       ],
       "sort": "lowest_price",
-      "shelfs_title": "LIQUIDA TUDO TODOVERDE"
+      "shelfs_title": "LIQUIDA TUDO TODOVERDE",
+      "autoplay": 1000
     },
     {
       "type": "banner-slider",
