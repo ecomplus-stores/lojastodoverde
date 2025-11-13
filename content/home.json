@@ -19,7 +19,7 @@
       "type": "shelfs-nav",
       "shuffle": true,
       "limit": 10,
-      "page": 1,
+      "page": 10,
       "collection_ids": [
         "672e253186609e53f8723628:collections:PEÇAS EM LIQUÍDAÇÃO:/pecas-em-liquidacao"
       ],
