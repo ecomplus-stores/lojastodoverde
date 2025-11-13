@@ -22,7 +22,8 @@
       "page": 1,
       "collection_id": "67b5f5c653d3dd5b9c717f81:categories:LIQUIDAÇÃO:/liquidacao",
       "sort": "lowest_price",
-      "headless": true
+      "headless": true,
+      "autoplay": 1000
     },
     {
       "type": "banner-slider",
