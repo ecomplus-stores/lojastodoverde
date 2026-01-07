@@ -10,18 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/lencos-de-brinde-1.webp"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/banner-de-site-promocao-de-verao-moderno-azul-e-amarelo-copiar.jpg",
           "link": "https://www.lojastodoverde.com.br/liquidacao"
         }
