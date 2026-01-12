@@ -5,6 +5,18 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/frete-gratis-roupa-feminina.webp"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
