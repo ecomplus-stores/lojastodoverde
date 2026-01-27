@@ -35,17 +35,62 @@
       "collection_id": "67b5f5c653d3dd5b9c717f81:categories:LIQUIDAÇÃO:/liquidacao",
       "sort": "lowest_price",
       "headless": true,
-      "autoplay": 1000
+      "autoplay": 2000
     },
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
+      "autoplay": 0,
+      "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/pro-que-nome-todoverde-copiar.webp"
+          "img": "/img/uploads/pro-que-nome-todoverde.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/2aa.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/3aa.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/4aa.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/5aa.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/6aa.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/7aa.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/8aa.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/9aa.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/10aa.webp"
         }
       ]
     },
@@ -57,7 +102,17 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/cuoim-de-desconto-todoverde.webp"
+          "img": "/img/uploads/3x-sem-juros.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/envios-no-mesmo-dia.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/cuoim-de-desconto.webp"
         }
       ]
     },
