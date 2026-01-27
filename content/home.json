@@ -39,58 +39,13 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 0,
-      "full_width": true,
+      "autoplay": 9000,
+      "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/pro-que-nome-todoverde.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/2aa.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/3aa.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/4aa.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/5aa.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/6aa.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/7aa.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/8aa.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/9aa.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/10aa.webp"
+          "img": "/img/uploads/pro-que-nome-todoverde-copiar.webp"
         }
       ]
     },
