@@ -35,6 +35,10 @@
     {
       "type": "custom-html",
       "html": "<martan-rating\n  data-product-sku=\"{{product.sku}}\"\n  data-star-color=\"#fbbf24\"\n  data-theme=\"compact\">\n</martan-rating>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<martan-questions\n  data-product-sku=\"{{product.sku}}\"\n  data-enable-new-questions=\"true\">\n</martan-questions>"
     }
   ]
 }
