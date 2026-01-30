@@ -1,12 +1,6 @@
 {
-  "productSlots": "src/append/product-slots",
-  "active": true,
-  "productDescriptionAppend": "src/append/product-block",
-  "stampsAppend": "src/append/stamps",
   "pkg": "@ecomplus/widget-martan",
-  "productCardSlots": "src/append/product-card-slots",
-  "headAppend": "src/append/head",
-  "bodyAppend": "src/append/body",
+  "active": true,
   "options": {
     "store_id": 179516890,
     "web_id": "8CLb3NUL8GbSWxcArCqLqFZpXWWVsRxV",
@@ -33,5 +27,11 @@
       "text_color": "#0e0e0e",
       "star_color": "#ff00bc"
     }
-  }
+  },
+  "headAppend": "src/append/head",
+  "bodyAppend": "src/append/body",
+  "productDescriptionAppend": "src/append/product-block",
+  "productCardSlots": "src/append/product-card-slots",
+  "productSlots": "src/append/product-slots",
+  "stampsAppend": "src/append/stamps"
 }
