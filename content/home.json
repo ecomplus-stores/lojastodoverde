@@ -10,32 +10,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/cover.jpg",
-          "link": "https://www.lojastodoverde.com.br/liquidacao"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/simple-modern-sales-report-presentation.png"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "67b5f5c653d3dd5b9c717f81:categories:LIQUIDAÇÃO:/liquidacao",
-      "sort": "lowest_price",
-      "headless": true,
-      "autoplay": 2000
     },
     {
       "type": "banner-slider",
@@ -50,155 +27,23 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 2000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/cuoim-de-desconto-todoverde.webp"
-        }
-      ]
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "67b5f5c653d3dd5b9c717f81:categories:LIQUIDAÇÃO:/liquidacao",
+      "sort": "lowest_price",
+      "headless": true,
+      "autoplay": 2000
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/calcas-femininas-revenda-atacado-1-.webp",
-          "link": "https://www.lojastodoverde.com.br/calcas ",
-          "alt": ""
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/vestidos-femininos-atacado-para-revenda-1-.webp",
-          "link": "https://www.lojastodoverde.com.br/vestidos"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/shorts-e-saia-femininos-atacado-para-revenda-1-1-.webp",
-          "link": "https://www.lojastodoverde.com.br/saias-e-shorts"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 10000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/conjuntos-femininos-atacado-para-revenda-1-1-1-.webp",
-          "link": "https://www.lojastodoverde.com.br/conjuntos"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/blusas-e-regatas-femininos-atacado-para-revenda-1-1-1-1-.webp",
-          "link": "https://www.lojastodoverde.com.br/partes-de-cima"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/calcas-flaneladas-por-dentro-legging-flare-leg-fler-elastano-1-.png",
-          "link": "https://www.lojastodoverde.com.br/search?term=flanelada"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "link": "https://www.lojastodoverde.com.br/todos-os-produtos---disponiveis",
-          "img": "/img/uploads/1-todos-modelos-disponiveis-todoverde.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/linho100porcento-linho-puro-linho-italiano-linho-de-qualidade.jpg",
-          "link": "https://www.lojastodoverde.com.br/linho"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/pecas-em-promocao-todoverde-atacado.png",
-          "link": "https://www.lojastodoverde.com.br/liquidacao"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/mdoa-senhoras-calca-gorgurinho-capri-gorgurinho-bermuda-gorgurinho.jpg",
-          "link": "https://www.lojastodoverde.com.br/moda-senhora"
-        }
-      ]
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     },
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "\n<script src=\"https://www.sowecms.com/demos/InstagramFeed/dist/InstagramFeed.min.js\"></script>\n<div id=\"instagram-feed\" class=\"instagram_feed\"></div>\n<script>\n    (function(){\n        new InstagramFeed({\n            'username': '@lojastodoverde',\n            'container': document.getElementById(\"instagram-feed\"),\n            'display_profile': false,\n            'display_biography': false,\n            'display_igtv': false,\n            'display_gallery': true,\n            'get_raw_json': false,\n            'callback': null,\n            'styling': true,\n            'items': 6,\n            'items_per_row': 6,\n            'margin': 1\n        });\n    })();\n</script>"
     }
   ]
 }
