@@ -15,6 +15,10 @@
       ]
     },
     {
+      "type": "custom-html",
+      "html": "<img src=\"https://www.lojastodoverde.com.br/img/uploads/avaliacoes.webp\" alt=\"\" width=\"1152\" height=\"753\">"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -44,10 +48,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "<img src=\"https://www.lojastodoverde.com.br/img/uploads/avaliacoes.webp\" alt=\"\" width=\"1152\" height=\"753\">"
     }
   ]
 }
