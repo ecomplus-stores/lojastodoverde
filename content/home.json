@@ -32,10 +32,6 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
