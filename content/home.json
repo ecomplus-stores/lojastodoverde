@@ -19,6 +19,19 @@
       "html": "<img src=\"https://www.lojastodoverde.com.br/img/uploads/avaliacoes.webp\" style=\"width: 100%; height: auto;\" alt=\"Imagem Responsiva\"\" width=\"1152\" height=\"900\">"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/avaliacoes.webp",
+          "mobile_img": "/img/uploads/avaliacoes-mobile.webp"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
