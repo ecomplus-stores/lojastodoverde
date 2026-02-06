@@ -15,10 +15,6 @@
       ]
     },
     {
-      "type": "custom-html",
-      "html": "<img src=\"https://www.lojastodoverde.com.br/img/uploads/avaliacoes.webp\" style=\"width: 100%; height: auto;\" alt=\"Imagem Responsiva\"\" width=\"1152\" height=\"900\">"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
