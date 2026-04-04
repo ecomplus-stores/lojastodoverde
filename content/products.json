@@ -39,6 +39,10 @@
     {
       "type": "custom-html",
       "html": "<script src=\"https://example.com/script.js\" async></script>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<!-- ESSENCIAL -->\n<script src=\"/js/jquery.js\"></script>\n\n<!-- PRINCIPAL -->\n<script src=\"/js/app.js\" defer></script>\n\n<!-- NÃO ESSENCIAL -->\n<script src=\"https://www.googletagmanager.com/gtag/js?id=XXXX\" async></script>\n<script src=\"https://connect.facebook.net/en_US/fbevents.js\" async></script>"
     }
   ]
 }
