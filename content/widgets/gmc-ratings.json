@@ -1,6 +1,6 @@
 {
   "pkg": "@ecomplus/widget-gmc-ratings",
-  "active": false,
+  "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
   "disablePages": false,
