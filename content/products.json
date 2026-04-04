@@ -31,6 +31,14 @@
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<script src=\"/js/app.js\" defer></script>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<script src=\"https://example.com/script.js\" async></script>"
     }
   ]
 }
