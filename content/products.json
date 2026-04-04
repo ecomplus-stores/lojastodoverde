@@ -39,10 +39,6 @@
     {
       "type": "custom-html",
       "html": "<martan-questions\n  data-product-sku=\"{{product.sku}}\"\n  data-enable-new-questions=\"true\">\n</martan-questions>"
-    },
-    {
-      "type": "custom-html",
-      "html": "<!-- remover isso -->\n<div class=\"product-reviews\">"
     }
   ]
 }
