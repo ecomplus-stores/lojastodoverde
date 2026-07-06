@@ -15,19 +15,6 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/avaliacoes.webp",
-          "mobile_img": "/img/uploads/avaliacoes-mobile-2_11zon.webp"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
