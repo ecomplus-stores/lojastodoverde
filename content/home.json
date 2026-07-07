@@ -22,31 +22,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/roupas-atacado-fornecedor.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/cabecalho-2-.png"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "67b5f5c653d3dd5b9c717f81:categories:LIQUIDAÇÃO:/liquidacao",
-      "sort": "lowest_price",
-      "headless": true,
-      "autoplay": 2000
     },
     {
       "type": "dynamic-showcase",
