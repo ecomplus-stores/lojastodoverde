@@ -22,7 +22,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/1.png"
+          "img": "/img/uploads/bijouteria-bras-1-.png",
+          "link": "https://www.lojastodoverde.com.br/acessorios",
+          "mobile_img": ""
         }
       ]
     },
@@ -34,9 +36,19 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/bijouteria-bras-1-.png",
-          "link": "https://www.lojastodoverde.com.br/acessorios",
-          "mobile_img": ""
+          "img": "/img/uploads/1.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/2.png"
         }
       ]
     },
