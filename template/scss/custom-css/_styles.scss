@@ -86,3 +86,15 @@
    }
    
 }
+/* Espaçamento entre os banners da home */
+#content.page--home .sections > .banner-slider {
+   margin-bottom: 1.5rem;
+
+   @media (min-width: 992px) {
+      margin-bottom: 4rem;
+   }
+
+   &:last-of-type {
+      margin-bottom: 0;
+   }
+}
