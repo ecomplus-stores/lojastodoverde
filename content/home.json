@@ -30,33 +30,6 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/roupa-para-academia-fitness.png",
-          "link": ""
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/bijouteria-bras-1-.png",
-          "link": "https://www.lojastodoverde.com.br/acessorios",
-          "mobile_img": ""
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
@@ -90,6 +63,20 @@
           "end": "",
           "img": "/img/uploads/texto-do-seu-paragrafo-7-1-.png",
           "link": "https://www.lojastodoverde.com.br/regata-froozen-poliamida"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/bijouteria-bras-1-.png",
+          "link": "https://www.lojastodoverde.com.br/acessorios",
+          "mobile_img": ""
         }
       ]
     },
