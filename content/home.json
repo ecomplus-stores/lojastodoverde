@@ -17,6 +17,32 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/texto-do-seu-paragrafo-6-1-.png",
+          "link": "moda-fitness"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/roupa-para-academia-fitness.png",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
@@ -36,7 +62,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/1.png",
+          "img": "/img/uploads/texto-do-seu-paragrafo-8-1-.png",
           "link": "trabalho-social"
         }
       ]
@@ -75,32 +101,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/roupa-confortavel.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/texto-do-seu-paragrafo-6-1-.png",
-          "link": "moda-fitness"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/roupa-para-academia-fitness.png",
-          "link": ""
         }
       ]
     },
