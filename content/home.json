@@ -5,6 +5,19 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/a-1-.jpg",
+          "link": "https://www.instagram.com/lojastodoverde/"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
