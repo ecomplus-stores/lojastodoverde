@@ -5,27 +5,13 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/loja-renomada-no-instagram.png",
-          "link": "https://www.instagram.com/lojastodoverde/",
-          "mobile_img": "/img/uploads/loja-renomada-no-instagram.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/frete-gratis-via-motoboy.jpg",
-          "link": "https://www.lojastodoverde.com.br/bermuda-ciclista"
+          "img": "/img/uploads/1.png",
+          "link": "https://www.lojastodoverde.com.br/conjunto-paris"
         }
       ]
     },
