@@ -59,8 +59,20 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/nova-colecao.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/5.png",
-          "link": "https://www.lojastodoverde.com.br/regata-froozen-poliamida"
+          "link": "https://wa.me/5511945634309?text=Oii%2C%20vim%20pelo%20site%20!"
         }
       ]
     },
@@ -82,18 +94,6 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/nova-colecao.png"
-        }
-      ]
     }
   ]
 }
