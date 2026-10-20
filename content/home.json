@@ -29,6 +29,18 @@
       ]
     },
     {
+      "type": "shelfs-nav",
+      "shuffle": true,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "67a08bcb53d3dd5b9c59700a:categories:TODOS OS PRODUTOS - DISPONÍVEIS:/todos-os-produtos---disponiveis"
+      ],
+      "sort": "sales",
+      "shelfs_title": "",
+      "autoplay": 0
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
