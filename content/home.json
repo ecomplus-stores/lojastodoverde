@@ -57,19 +57,6 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/texto-do-seu-paragrafo-9-1-.png",
-          "link": "casual-dia-a-dia"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
@@ -78,32 +65,6 @@
           "img": "/img/uploads/bijouteria-bras-1-.png",
           "link": "https://www.lojastodoverde.com.br/acessorios",
           "mobile_img": ""
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/mosaico-calcas-todoverde-1-.png",
-          "link": "calcas-femininas"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/shorts-masculino.png",
-          "link": "moda-masculina"
         }
       ]
     },
