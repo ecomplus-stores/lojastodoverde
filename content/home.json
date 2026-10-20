@@ -72,6 +72,18 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/nova-colecao.png"
+        }
+      ]
     }
   ]
 }
